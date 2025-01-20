@@ -6,6 +6,7 @@ Modded for the use with sliding rails
 Original creator - https://www.thingiverse.com/thing:4769452
 
 Hardware Required
+- https://www.cigarhumidors-online.com/cigar-accessories/miscellaneous-smoking-accessories/1u-sliding-server-rack-shelf.html
 - m4 heat serts - 4mm x 4mm L x 6mm OD
 - m3 heat serts - 3mm x 4mm L x 5mm OD
 - m4 x 6mm - [Flathead socket cap]
