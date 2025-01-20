@@ -6,7 +6,7 @@ This is a 1U rackmount for Lenovo Tiny USFF computers (specifically m720q).
 Original creator - https://www.thingiverse.com/thing:4769452
 
 Hardware Required
-- https://www.cigarhumidors-online.com/cigar-accessories/miscellaneous-smoking-accessories/1u-sliding-server-rack-shelf.html
+- https://www.cigarhumidors-online.com/cigar-accessories/miscellaneous-smoking-accessories/1u-sliding-server-rack-shelf.html <-- buy to acquire sliding rails
 - m4 heat serts - 4mm x 4mm L x 6mm OD
 - m3 heat serts - 3mm x 4mm L x 5mm OD
 - m4 x 6mm - [Flathead socket cap]
