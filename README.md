@@ -19,7 +19,7 @@ Hardware Required
 - m4 x 30mm [socket head]
 - m4 x 50mm [button head]
 
-Hardware Locations->: (add picture for reference)
+Hardware Locations->: 
 
 - 4x m4 [heatserts] - |-> Front
 - 4x m4 30mm [socket head] - |-> Front
@@ -34,6 +34,8 @@ Hardware Locations->: (add picture for reference)
 - 2x m3 [hexnut] - |-> connect left/right with extension
 
 - HDD: 8x m3 8mm [button head]
+
+https://github.com/Alternating/1uRackMount---Lenovo---think-centre/blob/main/hardware-guide.png
 
 Modified Assembly: *** update required ****
 
