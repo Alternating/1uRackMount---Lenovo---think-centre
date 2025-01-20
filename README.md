@@ -35,7 +35,8 @@ Hardware Locations->:
 
 - HDD: 8x m3 8mm [button head]
 
-https://github.com/Alternating/1uRackMount---Lenovo---think-centre/blob/main/hardware-guide.png
+![hardware-reference-guide]([http://url/to/img.png](https://github.com/Alternating/1uRackMount---Lenovo---think-centre/blob/main/hardware-guide.png))
+
 
 Modified Assembly: *** update required ****
 
