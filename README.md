@@ -6,31 +6,31 @@ Modded for the use with sliding rails
 Original creator - https://www.thingiverse.com/thing:4769452
 
 Hardware Required
-m4 heat serts - 4mm x 4mm L x 6mm OD
-m3 heat serts - 3mm x 4mm L x 5mm OD
-m4 x 6mm - [Flathead socket cap]
-m3 [Flange lock nuts] 
-m3 x 0.5mm [hex nuts]
-m3 x 8mm [button head]
-m3 x 20mm [socket head]
-m4 x 20mm [button head]
-m4 x 10mm [socket head]
-m4 x 30mm [socket head]
-m4 x 50mm [button head]
+- m4 heat serts - 4mm x 4mm L x 6mm OD
+- m3 heat serts - 3mm x 4mm L x 5mm OD
+- m4 x 6mm - [Flathead socket cap]
+- m3 [Flange lock nuts] 
+- m3 x 0.5mm [hex nuts]
+- m3 x 8mm [button head]
+- m3 x 20mm [socket head]
+- m4 x 20mm [button head]
+- m4 x 10mm [socket head]
+- m4 x 30mm [socket head]
+- m4 x 50mm [button head]
 
 Hardware Locations->: (add picture for reference)
 
---------------------: 4x m4 [heatserts] - |-> Front
---------------------: 4x m4 30mm [socket head] - |-> Front
---------------------: 2x m4 [heatserts] - |-> Right Side
---------------------: 2x m4 6mm [FlatHead SocketCap] - |-> Right Side
---------------------: 2x m4 [heatserts] - |-> Left Side
---------------------: 2x m4 6mm [FlatHead SocketCap] - |-> Left Side
---------------------: 4x m3 20mm [sockethead] - |-> Rear Cap
---------------------: 3x m3 8mm [button head] - |-> connect left/right with extension
---------------------: 6x m3 [Flange lock nuts] - |-> connect left/right with extension
---------------------: 2x m3 8mm [button head] - |-> connect left/right with extension
---------------------: 2x m3 [hexnut] - |-> connect left/right with extension
+- --------------------: 4x m4 [heatserts] - |-> Front
+- --------------------: 4x m4 30mm [socket head] - |-> Front
+- --------------------: 2x m4 [heatserts] - |-> Right Side
+- --------------------: 2x m4 6mm [FlatHead SocketCap] - |-> Right Side
+- --------------------: 2x m4 [heatserts] - |-> Left Side
+- --------------------: 2x m4 6mm [FlatHead SocketCap] - |-> Left Side
+- --------------------: 4x m3 20mm [sockethead] - |-> Rear Cap
+- --------------------: 3x m3 8mm [button head] - |-> connect left/right with extension
+- --------------------: 6x m3 [Flange lock nuts] - |-> connect left/right with extension
+- --------------------: 2x m3 8mm [button head] - |-> connect left/right with extension
+- --------------------: 2x m3 [hexnut] - |-> connect left/right with extension
 
 HDD: 8x m3 8mm [button head]
 
