@@ -20,19 +20,19 @@ Hardware Required
 
 Hardware Locations->: (add picture for reference)
 
-- --------------------: 4x m4 [heatserts] - |-> Front
-- --------------------: 4x m4 30mm [socket head] - |-> Front
-- --------------------: 2x m4 [heatserts] - |-> Right Side
-- --------------------: 2x m4 6mm [FlatHead SocketCap] - |-> Right Side
-- --------------------: 2x m4 [heatserts] - |-> Left Side
-- --------------------: 2x m4 6mm [FlatHead SocketCap] - |-> Left Side
-- --------------------: 4x m3 20mm [sockethead] - |-> Rear Cap
-- --------------------: 3x m3 8mm [button head] - |-> connect left/right with extension
-- --------------------: 6x m3 [Flange lock nuts] - |-> connect left/right with extension
-- --------------------: 2x m3 8mm [button head] - |-> connect left/right with extension
-- --------------------: 2x m3 [hexnut] - |-> connect left/right with extension
+- 4x m4 [heatserts] - |-> Front
+- 4x m4 30mm [socket head] - |-> Front
+- 2x m4 [heatserts] - |-> Right Side
+- 2x m4 6mm [FlatHead SocketCap] - |-> Right Side
+- 2x m4 [heatserts] - |-> Left Side
+- 2x m4 6mm [FlatHead SocketCap] - |-> Left Side
+- 4x m3 20mm [sockethead] - |-> Rear Cap
+- 3x m3 8mm [button head] - |-> connect left/right with extension
+- 6x m3 [Flange lock nuts] - |-> connect left/right with extension
+- 2x m3 8mm [button head] - |-> connect left/right with extension
+- 2x m3 [hexnut] - |-> connect left/right with extension
 
-HDD: 8x m3 8mm [button head]
+- HDD: 8x m3 8mm [button head]
 
 Modified Assembly: *** update required ****
 
