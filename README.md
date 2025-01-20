@@ -1,7 +1,7 @@
-# 1uRackMount-m720q
-This is a 1U rackmount for Lenovo Tiny USFF computers (specifically m720q). 
+# 1uRackMount - m720q - any tiny think centre
 
-Modded for the use with sliding rails
+This is a 1U rackmount for Lenovo Tiny USFF computers (specifically m720q). 
+- Modded for the use with sliding rails
 
 Original creator - https://www.thingiverse.com/thing:4769452
 
